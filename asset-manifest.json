@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e3a9635.css",
+    "main.js": "/static/js/main.da64ca04.js",
+    "static/media/Mobile Menu Gif 1.png": "/static/media/Mobile Menu Gif 1.8ac9b744c8e9eaf77ca3.png",
+    "static/media/POS Mockup Register.png": "/static/media/POS Mockup Register.b9f51deeead03b2a3783.png",
+    "static/media/iPad Mini.png": "/static/media/iPad Mini.03c41a85a2d14401bae2.png",
+    "static/media/POS System Flex.png": "/static/media/POS System Flex.571c1395364553dc6655.png",
+    "index.html": "/index.html",
+    "main.2e3a9635.css.map": "/static/css/main.2e3a9635.css.map",
+    "main.da64ca04.js.map": "/static/js/main.da64ca04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e3a9635.css",
+    "static/js/main.da64ca04.js"
+  ]
+}
